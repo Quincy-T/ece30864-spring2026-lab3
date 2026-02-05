@@ -35,3 +35,25 @@ Sprint Retrospective Meeting:
 - Discuss work complete 
 - Move incomplete work to backlog
 - Close sprint
+
+d)
+
+Epic:
+- Largest Tier, Made up of stories and tasks
+- Can last multiple Sprints
+
+
+Story:
+- Singular requirment
+- User/stakeholder created Normally
+- Tried to be accomplished in one sprint
+
+Bug:
+- An issue that blocks a Story and or Epic
+- Stops development of one branch/task
+- Given from external and or internal testing
+
+Task:
+- Normally subparts of Stories.
+- Needed action item to complete a requirment
+- complete multiple in a sprint
