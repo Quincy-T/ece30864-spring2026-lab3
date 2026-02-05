@@ -1,0 +1,8 @@
+a) 
+Agile vs non Agile
+Pros
+- Able to rapidly change direction. Faster turn around.
+- Constantly being built by feedback. Ever evolving to reach a better state.
+Cons
+- More pushes mean more times for somehting to break. less predictable.
+- Normally leads to poorer documentation due to fast development.
