@@ -6,3 +6,15 @@ Pros
 Cons
 - More pushes mean more times for somehting to break. less predictable.
 - Normally leads to poorer documentation due to fast development.
+
+b)
+
+Scrum Master:
+- In charge of how development occurs
+- Plans Sprints 
+- Run Meetins
+
+Project Owner
+- External Representation
+- Deals with the goals
+- Handles Releases
