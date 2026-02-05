@@ -18,3 +18,20 @@ Project Owner
 - External Representation
 - Deals with the goals
 - Handles Releases
+
+c)
+
+Sprint Planning Meeting:
+- Determine goals in the sprint
+- Move stories in sprint from backlog
+- Determine story points and assign stories to teams
+- Start sprint
+
+Daily Scrum/Standup Meeting:
+- Discuss work completed
+- Plan for the day and add any blockers
+
+Sprint Retrospective Meeting:
+- Discuss work complete 
+- Move incomplete work to backlog
+- Close sprint
